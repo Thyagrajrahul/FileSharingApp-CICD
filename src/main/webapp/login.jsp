@@ -73,7 +73,7 @@ button:hover{
 
 <div class="container">
 
-<h2>CI/CD Demo - File Sharing Application</h2>
+<h2>File Sharing Application</h2>
 
 <p class="error"><%= error %></p>
 
