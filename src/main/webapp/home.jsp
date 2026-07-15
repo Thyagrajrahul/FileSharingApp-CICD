@@ -35,7 +35,7 @@ a{
 
 <div class="container">
 
-<h2>THIS IS THE NEW LOGIN PAGE</h2>
+<h1>Welcome to File Sharing Application</h1>
 
 <p>Login Successful!</p>
 
